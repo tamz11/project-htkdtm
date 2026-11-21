@@ -16,7 +16,7 @@
 | :-: | :--- | :---: | :---: | :--- | :--- | :---: | :--- |
 | 1 | Phan Văn Tâm | [Bổ sung] | 65HTTT | Nhóm trưởng | Quản lý dự án, phân tích yêu cầu nghiệp vụ, xây dựng kế hoạch và tích hợp hệ thống | [Bổ sung] | [Bổ sung] |
 | 2 | Trịnh Thị Vân | [Bổ sung] | 65HTTT | Thành viên | Thu thập dữ liệu khách sạn, tìm kiếm nguồn dữ liệu và tiền xử lý dữ liệu | [Bổ sung] | [Bổ sung] |
-| 3 | Bùi Ngọc Tùng Sơn | [Bổ sung] | 65HTTT | Thành viên | Phân tích và thiết kế cơ sở dữ liệu, xây dựng và quản lý dữ liệu hệ thống | [Bổ sung] | [Bổ sung] |
+| 3 | Bùi Ngọc Tùng Sơn | 2351160546 | 65HTTT | Thành viên | Phân tích và thiết kế cơ sở dữ liệu, xây dựng và quản lý dữ liệu hệ thống | [Bổ sung] | buingoctungson@gmail.com |
 | 4 | Nguyễn Tuấn Kiệt | [Bổ sung] | 65HTTT | Thành viên | Thiết kế giao diện, xây dựng dashboard và trực quan hóa dữ liệu | [Bổ sung] | [Bổ sung] |
 | 5 | Đỗ Quang Nam Anh | [Bổ sung] | 65HTTT | Thành viên | Phân tích các chỉ số KPI, kiểm thử hệ thống và hỗ trợ viết báo cáo | [Bổ sung] | [Bổ sung] |
 
