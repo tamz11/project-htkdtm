@@ -1,0 +1,25 @@
+[1] Đọc dữ liệu: 119,390 dòng x 32 cột
+[2] Giá trị thiếu theo cột:
+    - company: 112,593 (94.3%)
+    - agent: 16,340 (13.7%)
+    - country: 488 (0.4%)
+    - children: 4 (0.0%)
+    Số dòng trùng lặp hoàn toàn: 31,994
+[3] Làm sạch dữ liệu:
+    - children thiếu -> 0; country thiếu -> 'Unknown'; agent/company thiếu -> 0 (thêm cột cờ has_agent, has_company)
+    - meal 'Undefined' -> 'SC': 1,169 dòng
+    - Loại booking 0 người lớn, 0 trẻ em, 0 em bé: 180 dòng
+    - Loại adr < 0 hoặc > 1000: 2 dòng
+    - Giữ dòng trùng lặp (có thể là booking theo đoàn); đổi DROP_DUPLICATES = True nếu nhóm muốn loại
+    => Còn 119,208 / 119,390 dòng (99.8%)
+[4] Thêm cột phân tích -> tổng 51 cột
+[5] Tóm tắt nhanh sau xử lý:
+    - Khoảng thời gian đến: 2015-07-01 -> 2017-08-31
+    - Tỷ lệ hủy: 37.1%
+    - ADR trung bình (booking không hủy): 100.17
+    - Tổng doanh thu thực tế: 25,986,976
+    - Theo loại khách sạn:
+        City Hotel: 79,162 booking | hủy 41.8% | ADR 105.44 | doanh thu 14,385,342
+        Resort Hotel: 40,046 booking | hủy 27.8% | ADR 94.99 | doanh thu 11,601,634
+    - Kiểm tra: không còn giá trị thiếu ✔
+[6] Đã lưu: C:\VAN\HTKDTM\project-htkdtm\nhom10-65httt\src\database\data\processed\hotel_bookings_clean.csv
